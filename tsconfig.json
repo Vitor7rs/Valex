@@ -7,20 +7,5 @@
     },
     "ts-node": {
         "esm": true
-    },
-    "scripts": {
-        "build": "tsc",
-        "start": "node dist/app.js",
     }
 }
-
-// //{
-// "compilerOptions": {
-//     "target": "es6",
-//     "module": "commonjs",
-//     "esModuleInterop": true,
-//     "forceConsistentCasingInFileNames": true,
-//     "strict": true,
-//     "skipLibCheck": true
-// }
-// }
